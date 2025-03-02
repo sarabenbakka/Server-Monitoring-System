@@ -1,0 +1,44 @@
+/* style.css */
+.table-view {
+    -fx-background-color: #f4f4f4;
+    -fx-font-size: 14px;
+}
+
+.table-view .column-header {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #e0e0e0;
+}
+
+.table-row-cell:even {
+    -fx-background-color: #f0f0f0;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.status-alert {
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}
+
+.status-normal {
+    -fx-text-fill: green;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
