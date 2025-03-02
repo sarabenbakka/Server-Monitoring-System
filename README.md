@@ -78,12 +78,7 @@ java -jar target/monitoring-gui.jar
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+## Screenshots
+![Screenshot 2025-03-01 030420](https://github.com/user-attachments/assets/36189542-f71d-465c-bec0-242aeeb03510)
 
-This project is licensed under the MIT License - see the LICENSE file for details
 
-## Contact
-
-Your Name - [your-email@example.com]
-
-Project Link: [https://github.com/yourusername/Monitoring-project]
